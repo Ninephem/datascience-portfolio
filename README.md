@@ -1,6 +1,6 @@
-# Data Analyst/Scientist
+# Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Tableau, PowerBI, Matplotlib, Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
 - B.S., Sociology | Lagos State University (_April 2019_)
